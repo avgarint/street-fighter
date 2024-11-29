@@ -1,5 +1,5 @@
 # street-fighter
-A remake of the Street Fighter game.
+Remake of the Street Fighter game.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/823ebc22-9d9f-407a-bbe8-77cdb1168d94" width="700px" />
